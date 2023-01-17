@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bibliotheque.xslt"?>
+
+<!--  <livre nom="" href=""><grade></grade></livre>  -->
+
+<bibliotheque>
+
+    <epoque nom="Antiquité">
+        <auteur nom="?" nat="?" date="?">
+            <livre nom="La Sainte Bible">
+                <edition nom="Easton Press" langue="en" p="oui">https://www.eastonpress.com/all-categories/bibles-and-religion/rembrandt-family-bible-0251.html</edition>
+            </livre>
+        </auteur>
+        <auteur nom="Homère" nat="Grec" style="Poésie épique" date="~850 BC">
+            <livre nom="L'Iliade">
+                <edition nom="Memoria Press" langue="en">https://www.memoriapress.com/curriculum/classical-studies/iliad-set/</edition>
+            </livre>
+            <livre nom="L'Odyssée">
+                <edition nom="Babel" langue="fr" q="1">https://www.renaud-bray.com/Livres_Produit.aspx?id=27185&amp;def=Odyss%c3%a9e(L%27)%2cHOMERE%2c9782742705795</edition>
+                <edition nom="Memoria Press" langue="en">https://www.memoriapress.com/curriculum/classical-studies/odyssey-set/</edition>
+            </livre>
+        </auteur>
+        <auteur nom="Ésope" nat="Grec" style="Fables" date="620-564 BC">
+            <livre nom="Fables">
+                <edition nom="Usborne" langue="fr" q="1">https://www.amazon.ca/-/fr/SUSANNA-DAVIDSON/dp/1409588939/ref=sr_1_fkmr1_1?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=3EW3CK2H26FRK&amp;keywords=fables+desope+editions+usborne&amp;qid=1658942775&amp;sprefix=fables+desope+editions+usborne%2Caps%2C52&amp;sr=8-1-fkmr1</edition>
+                <edition nom="Les Belles lettres" langue="fr">https://www.renaud-bray.com/Livres_Produit.aspx?id=2958924&amp;def=Fables%2cESOPE%2c9782251450124</edition>
+                <edition nom="The Classic Edition" langue="en">https://www.amazon.ca/-/fr/Aesop/dp/1604338105/ref=sr_1_1?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=2Y56FQZ0DAQ0R&amp;keywords=Aesop%27s+Fables+Hardcover%3A+The+Classic+Edition&amp;qid=1658898324&amp;s=books&amp;sprefix=aesop%27s+fables+hardcover+the+classic+edition%2Cstripbooks%2C55&amp;sr=1-1</edition>
+            </livre>
+        </auteur>
+        <auteur nom="Confucius" nat="Chinois" style="Philosophie" date="551-479 BC">
+            <livre nom="Entretient"></livre>
+        </auteur>
+        <auteur nom="Eschyle" nat="Grec" style="Tragique" date="525-456 BC">
+            <livre nom=""></livre>
+        </auteur>
+        <auteur nom="Sophocle" nat="Grec" style="Tragique" date="496-405 BC">
+            <livre nom="Ajax"></livre>
+            <livre nom="Antigone"></livre>
+            <livre nom="Electra"></livre>
+            <livre nom="Philoctetes"></livre>
+            <livre nom="The Trachiniae"></livre>
+            <livre nom="The Oedipus Trilogy"></livre>
+            <livre nom="Oedipus Rex"></livre>
+        </auteur>
+        <auteur nom="Hérodote" nat="Grec" style="Histoire" date="485-425 BC">
+            <livre nom="Histoire"></livre>
+        </auteur>
+        <auteur nom="Euripide" nat="Grec" style="Tragique" date="484-406 BC">
+            <livre nom="Alcestis"></livre>
+            <livre nom="Andromache"></livre>
+            <livre nom="The Bacchantes"></livre>
+            <livre nom="The Cyclops"></livre>
+            <livre nom="Electra"></livre>
+            <livre nom="Hecuba"></livre>
+            <livre nom="Helen"></livre>
+            <livre nom="The Heracleidae"></livre>
+            <livre nom="Heracles"></livre>
+            <livre nom="Hippolytus"></livre>
+            <livre nom="Ion"></livre>
+            <livre nom="Iphigenia At Aulis"></livre>
+            <livre nom="Iphigenia in Tauris"></livre>
+            <livre nom="Medea"></livre>
+            <livre nom="Orestes"></livre>
+            <livre nom="The Phoenissae"></livre>
+            <livre nom="Rhesus"></livre>
+            <livre nom="The Suppliants"></livre>
+            <livre nom="The Trojan Women"></livre>
+        </auteur>
+        <auteur nom="Thucydide" nat="Grec (Athène)" style="Histoire" date="460-400 BC">
+            <livre nom="La guerre du Péloponnèse"></livre>
+        </auteur>
+        <auteur nom="Hyppocrate" nat="Grec" style="Philosophie médicale" date="460-359 BC">
+            <livre nom="Ecritures medicales"></livre>
+        </auteur>
+        <auteur nom="Aristophane" nat="Grec (Athène)" style="Comédie" date="448-388 BC">
+            <livre nom="The Acharnians"></livre>
+            <livre nom="The Birds"></livre>
+            <livre nom="The Clouds"></livre>
+            <livre nom=""></livre>
+            <livre nom="The Ecclesiazusae"></livre>
+            <livre nom="The Frogs"></livre>
+            <livre nom="The Knights"></livre>
+            <livre nom=""></livre>
+            <livre nom="Peace"></livre>
+            <livre nom="Plutus"></livre>
+            <livre nom="The Thesmophoriazusae"></livre>
+            <livre nom="The Wasps"></livre>
+        </auteur>
+        <auteur nom="Platon" nat="Grec (Athène)" style="Philosophie" date="427-347 BC">
+            <livre nom="Apologie de Socrate">
+                <edition nom="CEC" langue="fr" q="1">https://www.renaud-bray.com/Livres_Produit.aspx?id=1022401&amp;def=Apologie+de+Socrate%2fCriton%2fEuthyphron%2cPLATON%2c9782761727167</edition>
+                <edition nom="Flammarion" langue="fr" q="1">https://www.renaud-bray.com/Livres_Produit.aspx?id=2275925&amp;def=Apologie+de+Socrate%2fCriton+N.+%c3%a9d.%2cPLATON%2c9782081416024</edition>
+                <edition nom="Folio essais" langue="fr" q="1">https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-essais/Apologie-de-Socrate-Criton-Phedon</edition>
+            </livre>
+            <livre nom="Charmides, Or Temperance"></livre>
+            <livre nom="Critias"> </livre>
+            <livre nom="Criton">
+                <edition nom="CEC" langue="fr" q="1">https://www.renaud-bray.com/Livres_Produit.aspx?id=1022401&amp;def=Apologie+de+Socrate%2fCriton%2fEuthyphron%2cPLATON%2c9782761727167</edition>
+                <edition nom="Flammarion" langue="fr" q="1">https://www.renaud-bray.com/Livres_Produit.aspx?id=2275925&amp;def=Apologie+de+Socrate%2fCriton+N.+%c3%a9d.%2cPLATON%2c9782081416024</edition>
+                <edition nom="Folio essais" langue="fr" q="1">https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-essais/Apologie-de-Socrate-Criton-Phedon</edition>
+            </livre>
+            <livre nom="Epinomis"></livre>
+            <livre nom="Euthydemus"> </livre>
+            <livre nom="Euthyphron">
+                <edition nom="CEC" langue="fr" q="1">https://www.renaud-bray.com/Livres_Produit.aspx?id=1022401&amp;def=Apologie+de+Socrate%2fCriton%2fEuthyphron%2cPLATON%2c9782761727167</edition>
+            </livre>
+            <livre nom="Gorgias"></livre>
+            <livre nom="Ion"></livre>
+            <livre nom="Laches Or Courage"></livre>
+            <livre nom=""></livre>
+            <livre nom="Meno"></livre>
+            <livre nom="Parmenides"></livre>
+            <livre nom="Phédon">
+                <edition nom="Folio essais" langue="fr" q="1">https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-essais/Apologie-de-Socrate-Criton-Phedon</edition>
+            </livre>
+            <livre nom="Phaedrus"></livre>
+            <livre nom="Philebus"></livre>
+            <livre nom="Protagoras"></livre>
+            <livre nom="La République">
+                <edition nom="Flammarion" langue="fr" q="1">https://www.renaud-bray.com/Livres_Produit.aspx?id=2004455&amp;def=R%c3%a9publique(La)+N.+%c3%a9d.%2cPLATON%2c9782081386693</edition>
+                <edition nom="Folio essais" langue="fr" q="1">https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-essais/La-Republique</edition>
+            </livre>
+            <livre nom="Sophist"></livre>
+            <livre nom="Statesman"></livre>
+            <livre nom="Symposium"></livre>
+            <livre nom="Theaetetus"></livre>
+            <livre nom="Timaeus"></livre>
+        </auteur>
+        <auteur nom="Aristote" nat="Grec" style="Philosophie" date="384-322 BC">
+            <livre nom="Eudemian Ethics"></livre>
+            <livre nom="History of Animals"></livre>
+            <livre nom="Metaphysics"></livre>
+            <livre nom="Nicomachean Ethics"></livre>
+            <livre nom="On The Heavens"></livre>
+            <livre nom="On The Soul"></livre>
+            <livre nom="Physics"></livre>
+            <livre nom="Poetics"></livre>
+            <livre nom="Politics"></livre>
+            <livre nom="Prior Analytics"></livre>
+            <livre nom="Posterior Analytics"></livre>
+            <livre nom="Rhetoric"></livre>
+        </auteur>
+        <auteur nom="Épicure" nat="Grec" style="Philosophie" date="341-270 BC">
+            <livre nom="Letter to Herodotus"></livre>
+            <livre nom="Letter to Menoecus"></livre>
+        </auteur>
+        <auteur nom="Euclide" nat="Grec (Alexandria)" style="Mathematique" date="~300 BC">
+            <livre nom="Éléments"></livre>
+        </auteur>
+        <auteur nom="Archimède" nat="Grec (Syracuse)" style="Physique" date="287-212 BC">
+            <livre nom="Work"></livre>
+        </auteur>
+        <auteur nom="Apollonios de Perga" nat="Grec" style="Géométrie et astronomie" date="250-220 BC">
+            <livre nom="Sections coniques"></livre>
+        </auteur>
+        <auteur nom="Ciceron" nat="Romain" style="Philosophie politique" date="106-43 BC">
+            <livre nom="Des devoirs">
+                <edition nom="Flammarion" langue="fr">https://editions.flammarion.com/de-la-vieillesse-de-l-amitie-des-devoirs/9782080701565</edition>
+                <edition nom="Classiques en poche" langue="fr">https://www.renaud-bray.com/Livres_Produit.aspx?id=1484569&amp;def=Des+devoirs%2cCIC%c3%89RON%2c9782251802299</edition>
+                <edition nom="Oxford World's Classics" langue="en">https://www.amazon.ca/-/fr/P-G-Walsh/dp/0199540713/ref=sr_1_2?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=LH9CGUE7XQFP&amp;keywords=cicero+on+obligations&amp;qid=1658966821&amp;sprefix=cicero+on+obligations%2Caps%2C49&amp;sr=8-2</edition>
+                <edition nom="Memoria Press" langue="en">https://www.memoriapress.com/curriculum/classical-studies/on-obligations-set/</edition>
+            </livre>
+            <livre nom="De la Republique">
+                <edition nom="Flammarion" langue="fr">https://www.amazon.ca/-/fr/MARCUS-TULLIUS-CICERON/dp/2080700383/ref=tmm_other_meta_binding_swatch_0?_encoding=UTF8&amp;qid=1658965675&amp;sr=8-7</edition>
+                <edition nom="Oxford World's Classics" langue="en">https://www.amazon.ca/-/fr/Jonathan-Powell/dp/019954011X/ref=sr_1_3?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=PQK326V9TDF2&amp;keywords=cicero+republic&amp;qid=1658965822&amp;sprefix=cicero+republic%2Caps%2C55&amp;sr=8-3</edition>
+                <edition nom="Memoria Press" langue="en">https://www.memoriapress.com/curriculum/classical-studies/the-republic-and-the-laws-set/</edition>
+            </livre>
+            <livre nom="Des lois">
+                <edition nom="Flammarion" langue="fr">https://www.amazon.ca/-/fr/MARCUS-TULLIUS-CICERON/dp/2080700383/ref=tmm_other_meta_binding_swatch_0?_encoding=UTF8&amp;qid=1658965675&amp;sr=8-7</edition>
+                <edition nom="Oxford World's Classics" langue="en">https://www.amazon.ca/-/fr/Jonathan-Powell/dp/019954011X/ref=sr_1_3?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=PQK326V9TDF2&amp;keywords=cicero+republic&amp;qid=1658965822&amp;sprefix=cicero+republic%2Caps%2C55&amp;sr=8-3</edition>
+                <edition nom="Memoria Press" langue="en">https://www.memoriapress.com/curriculum/classical-studies/the-republic-and-the-laws-set/</edition>
+            </livre>
+            <livre nom="Work"></livre>
+        </auteur>
+        <auteur nom="Lucrèce" nat="Romain" style="Philosophie" date="99-55 BC">
+            <livre nom="On the Nature of Things"></livre>
+        </auteur>
+        <auteur nom="Virgile" nat="Romain" style="Poésie épique" date="70-19 BC">
+            <livre nom="The Aeneid">
+                <edition nom="Memoria Press" langue="en">https://www.memoriapress.com/curriculum/classical-studies/aeneid/</edition>
+            </livre>
+            <livre nom="The Ecologues"></livre>
+            <livre nom="The Georgics"></livre>
+        </auteur>
+        <auteur nom="Horace" nat="Romain" style="Poésie" date="65-8 BC">
+            <livre nom="Work"></livre>
+        </auteur>
+        <auteur nom="Tite-Live" nat="Romain" style="Histoire" date="59 BC-AD 17">
+            <livre nom="History of Early Rome"></livre>
+        </auteur>
+        <auteur nom="Ovide" nat="Romain" style="Poésie" date="43 BC-AD 17">
+            <livre nom="Les Métamorphoses">
+                <edition nom="Folio classique" langue="fr" p="oui">https://www.renaud-bray.com/Livres_Produit.aspx?id=185824&amp;def=M%c3%a9tamorphoses(Les)%2cOVIDE%2c9782070385645</edition>
+                <edition nom="Le Livre de Poche" langue="fr" p="oui">https://www.livredepoche.com/livre/les-metamorphoses-9782253089032</edition>
+                <edition nom="Penguin Classics" langue="en">https://www.amazon.ca/-/fr/Ovid/dp/0141394617/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=</edition>
+            </livre>
+            <livre nom="Work"></livre>
+        </auteur>
+        <auteur nom="Plutarque" nat="Grec" style="Philosophie" date="45-120">
+            <livre nom="Parallel Lives"></livre>
+            <livre nom="Moralia"></livre>
+            <livre nom="The Lives of the Noble Grecians and Romans"></livre>
+        </auteur>
+        <auteur nom="Tacite" nat="Romain" style="Histoire" date="55-117">
+            <livre nom="Agricola"></livre>
+            <livre nom="Annals"></livre>
+            <livre nom="Germania"></livre>
+            <livre nom="Histories"></livre>
+        </auteur>
+        <auteur nom="Nicomaque de Gérase" nat="Grec" style="Mathématique" date="100">
+            <livre nom="Introduction to Arithmetic"></livre>
+        </auteur>
+        <auteur nom="Épictète" nat="Grec" style="Philosophie stoïc" date="60-120">
+            <livre nom="Discourses"></livre>
+            <livre nom="Encheiridion"></livre>
+            <livre nom="Golden Sayings"></livre>
+        </auteur>
+        <auteur nom="Pline le Jeune" nat="Romain" style="?" date="62-114">
+            <livre nom="Letters"></livre>
+        </auteur>
+        <auteur nom="Ptolémée" nat="Romain (Alexandria, Égypte)" style="Mathématique et astrologie" date="90-168">
+            <livre nom="The Almagest"></livre>
+        </auteur>
+        <auteur nom="Lucien de Samosate" nat="Grec" style="Satire" date="120-190">
+            <livre nom="Work"></livre>
+        </auteur>
+        <auteur nom="Marc Aurèle" nat="Romain" style="Philosophie stoïc" date="121-180">
+            <livre nom="The Meditations"></livre>
+        </auteur>
+        <auteur nom="Claude Galien" nat="Grec" style="Philosophie" date="130-201">
+            <livre nom="On the Natural Faculties"></livre>
+        </auteur>
+        <auteur nom="Plotin" nat="Grec" style="Philosophie" date="205-270">
+            <livre nom="The Six Enneads"></livre>
+        </auteur>
+        <auteur nom="Saint Augustin (Augustin d'Hippone)" nat="Berber romanisé" style="Théologie" date="354-430">
+            <livre nom="Confessions"></livre>
+            <livre nom="On Christian Doctrine"></livre>
+            <livre nom="On the Teacher"></livre>
+            <livre nom="The City of God">
+                <edition nom="Memoria Press" langue="en">https://www.memoriapress.com/curriculum/christian-studies/city-god/</edition>
+            </livre>
+        </auteur>
+
+    </epoque>
+
+    <epoque nom="Médiéval">
+        <auteur nom="Anonyme" nat="Français" date="11e siècle">
+            <livre nom="Chanson de Roland">
+                <!-- <edition nom="" langue=""></edition> -->
+            </livre>
+        </auteur>
+        <auteur nom="Anonyme" nat="Germanique" date="?">
+            <livre nom="Chanson des Nibelungen"></livre>
+        </auteur>
+        <auteur nom="Anonyme" nat="Scandinave" date="?">
+            <livre nom="Völsunga saga"></livre>
+        </auteur>
+        <auteur nom="Anonyme" date="?">
+            <livre nom="Saga de Njáll le Brûlé"></livre>
+        </auteur>
+        <auteur nom="Anonyme" nat="Anglais" date="?">
+            <livre nom="Beowulf"></livre>
+        </auteur>
+        <auteur nom="Anonyme" nat="Anglais" date="?">
+            <livre nom="Sir Gawain and the Green Knight"></livre>
+        </auteur>
+        <auteur nom="Béroul" nat="Normand" date="1160-1213">
+            <livre nom="Tristan et Iseut"></livre>
+        </auteur>
+        <auteur nom="Chrétien de Troyes" nat="Français" date="1130-1190">
+            <livre nom="Cligès ou la Fausse morte"></livre>
+            <livre nom="Erec et Énide"></livre>
+            <livre nom="Lancelot ou Le Chevalier à la charrette"></livre>
+            <livre nom="Yvain ou le Chevalier au lion"></livre>
+        </auteur>
+        <auteur nom="Anonyme" nat="Perse, inde et arabe" date="?">
+            <livre nom="Les Milles et une nuits"></livre>
+        </auteur>
+    </epoque>
+
+    <epoque nom="13-16e siècle">
+        <auteur nom="Thomas d'Aquin" nat="Sicile" style="Théologie" date="1225-1274">
+            <livre nom="Summa theologica"></livre>
+        </auteur>
+        <auteur nom="Dante Alighieri" nat="Florence" style="Théologie" date="1265-1321">
+            <livre nom="La Comédie Divine">
+                <edition nom="Memoria Press" langue="en">https://www.memoriapress.com/curriculum/literature-and-poetry/tenth/divine-comedy/</edition>
+            </livre>
+            <livre nom="La Monarchie"></livre>
+            <livre nom="Vie nouvelle"></livre>
+        </auteur>
+        <auteur nom="Boccace" nat="Toscane" style="" date="1313-1375">
+            <livre nom="Décaméron"></livre>
+        </auteur>
+        <auteur nom="Geoffrey Chaucer" nat="Anglais" style="" date="1340-1400">
+            <livre nom="Les Contes de Canterbury"></livre>
+            <livre nom="Troilus and Criseyde"></livre>
+        </auteur>
+        <auteur nom="Julienne de Norwich" nat="Anglais" style="" date="1343-1416">
+            <livre nom="Revelations of Divine Love"></livre>
+        </auteur>
+        <auteur nom="Thomas a Kempis" nat="Néerlandais" style="" date="1380-1471">
+            <livre nom="L'imitation de Jésus-Christ"></livre>
+        </auteur>
+        <auteur nom="Léonard de Vinci" nat="Toscane" style="" date="1452-1519">
+            <livre nom="Works"></livre>
+        </auteur>
+        <auteur nom="Érasme" nat="Néerlandais" style="" date="1466-1536">
+            <livre nom="Adages"></livre>
+            <livre nom="Éloge de la Folie"></livre>
+        </auteur>
+        <auteur nom="Nicolas Machiavel" nat="Florence" style="" date="1469-1527">
+            <livre nom="Discours sur la première décade de Tite-Live"></livre>
+            <livre nom="Le Prince"></livre>
+        </auteur>
+        <auteur nom="Nicolas Copernic" nat="Polonais ou allemand" style="" date="1473-1543">
+            <livre nom="Des révolutions des sphères célestes"></livre>
+        </auteur>
+        <auteur nom="Thomas More" nat="Anglais" style="" date="1478-1535">
+            <livre nom="Utopie"></livre>
+        </auteur>
+        <auteur nom="Martin Luther" nat="Allemand" style="" date="1483-1546">
+            <livre nom="Table Talk"></livre>
+            <livre nom="Three Treatises"></livre>
+        </auteur>
+        <auteur nom="François Rabelais" nat="Français" style="" date="1483 ou 1494-1553">
+            <livre nom="Pantagruel, Gargantua, Le tiers Livre, Le Quart Livre, Le Cinquième Livre"></livre>
+        </auteur>
+        <auteur nom="Jean Calvin" nat="Français" style="" date="1509-1564">
+            <livre nom="Institution de la religion chrétienne"></livre>
+        </auteur>
+        <auteur nom="Michel de Montaigne" nat="Français" style="" date="1533-1592">
+            <livre nom="Les Essais"></livre>
+        </auteur>
+        <auteur nom="William Gilbert" nat="Anglais" style="" date="1544-1603">
+            <livre nom="De Magnete (On the Magnet and Magnetic Bodies)"></livre>
+        </auteur>
+        <auteur nom="Christopher Marlowe" nat="Anglais" style="" date="1564-1593">
+            <livre nom=""></livre>
+        </auteur>
+    </epoque>
+
+    <epoque nom="17e siècle">
+        <auteur nom="Miguel de Cervantes" nat="Espagnol" style="" date="1547-1616">
+            <livre nom="Don Quichotte"></livre>
+        </auteur>
+        <auteur nom="Francis Bacon" nat="Anglais" style="" date="1561-1626">
+            <livre nom="New Atlantis"></livre>
+            <livre nom="Advancement of Learning"></livre>
+            <livre nom="Novum Organum"></livre>
+            <livre nom="Essais"></livre>
+        </auteur>
+        <auteur nom="William Shakespear" nat="Anglais" style="" date="1564-1616">
+            <livre nom="A Midsummer Night's Dream">
+                <edition nom="Easton Press" langue="en">https://www.eastonpress.com/all-categories/literature/a-midsummer-nights-dream-3998013.html</edition>
+            </livre>
+            <livre nom="Hamlet">
+                <edition nom="Ignatius Critcal Editions" langue="en">https://loc.ignatius.com/ignatiuscriticaleditions/shakespeare-hamlet.htm</edition>
+            </livre>
+            <livre nom="Henry IV"></livre>
+            <livre nom="Julius Caesar">
+                <edition nom="Ignatius Critcal Editions" langue="en">https://loc.ignatius.com/ignatiuscriticaleditions/shakespeare-julius-caesar.htm</edition>
+            </livre>
+            <livre nom="King John"></livre>
+            <livre nom="King Lear">
+                <edition nom="Ignatius Critcal Editions" langue="en">https://loc.ignatius.com/ignatiuscriticaleditions/shakespeare-king-lear.htm</edition>
+            </livre>
+            <livre nom="Macbeth">
+                <edition nom="Ignatius Critcal Editions" langue="en">https://loc.ignatius.com/ignatiuscriticaleditions/shakespeare-macbeth.htm</edition>
+            </livre>
+            <livre nom="Merchant of Venice">
+                <edition nom="Ignatius Critcal Editions" langue="en">https://loc.ignatius.com/ignatiuscriticaleditions/shakespeare-merchant-of-venice.htm</edition>
+            </livre>
+            <livre nom="Much Ado About Nothing"></livre>
+            <livre nom="Othello">
+                <edition nom="Ignatius Critcal Editions" langue="en">https://loc.ignatius.com/ignatiuscriticaleditions/shakespeare-othello.htm</edition>
+            </livre>
+            <livre nom="Romeo and Juliet">
+                <edition nom="Easton Press" langue="en">https://www.eastonpress.com/all-categories/literature/romeo-and-juliet-3998021.html</edition>
+                <edition nom="Ignatius Critcal Editions" langue="en">https://loc.ignatius.com/ignatiuscriticaleditions/shakespeare-romeo-and-juliet.htm</edition>
+            </livre>
+            <livre nom="The Histories">
+                <edition nom="Easton Press" langue="en">https://www.eastonpress.com/all-categories/classics/william-shakespeares-the-histories-3998034.html</edition>
+            </livre>
+            <livre nom="The Tempest"></livre>
+            <livre nom="The Winter's Tale"></livre>
+        </auteur>
+    </epoque>
+
+    <epoque nom="18e siècle">
+    </epoque>
+
+    <epoque nom="19e siècle">
+    </epoque>
+
+    <epoque nom="20e siècle">
+    </epoque>
+
+    <epoque nom="21e siècle">
+    </epoque>
+
+</bibliotheque>
+
+<!--  <auteur nom=""><livre nom=""></livre></auteur>  -->
